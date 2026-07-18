@@ -215,12 +215,12 @@ objetivo:
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=italo1179&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=6D28D9&include_all_commits=true" alt="Estatísticas do GitHub" />
-<img height="175" src="https://streak-stats.demolab.com?user=italo1179&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sequência de contribuições" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=italo1179&theme=github_dark" alt="Estatísticas do GitHub" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italo1179&theme=github_dark" alt="Repositórios por linguagem" />
 
 <br />
 
-<img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo1179&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" alt="Linguagens mais utilizadas" />
+<img width="720" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italo1179&theme=github_dark" alt="Resumo das contribuições" />
 
 </div>
 
