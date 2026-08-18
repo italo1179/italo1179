@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,45:6D28D9,100:8B5CF6&text=Italo&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Estudante%20De%20%20Programação&descAlignY=58&animation=fadeIn" alt="Cabeçalho" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,45:6D28D9,100:8B5CF6&text=Italo&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Estudante%20de%20%20Programação&descAlignY=58&animation=fadeIn" alt="Cabeçalho" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Aprendendo+programa%C3%A7%C3%A3o+do+zero;Praticando+l%C3%B3gica+com+linguagem+C;Explorando+desenvolvimento+com+apoio+de+IA;Evoluindo+um+passo+de+cada+vez" alt="Texto animado" />
 
