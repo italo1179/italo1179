@@ -27,7 +27,7 @@
 
 ## Sobre mim
 
-Sou estudante de **Engenharia de Software** e estou no início da minha jornada na programação.
+Sou estudante de **Programação** e estou no início da minha jornada.
 
 Atualmente, estou construindo minha base com **lógica de programação e linguagem C**. Uso este perfil para registrar os exercícios que desenvolvo durante os estudos, acompanhar minha evolução e aprender com os erros e melhorias de cada projeto.
 
