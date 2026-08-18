@@ -6,7 +6,6 @@
 
 <br />
 
-[![Dev Treinee](https://img.shields.io/badge/Engenharia_de_Software-312E81?style=flat-square&logo=bookstack&logoColor=white)](https://github.com/italo1179)
 [![Aprendendo C](https://img.shields.io/badge/Aprendendo-Linguagem_C-6D28D9?style=flat-square&logo=c&logoColor=white)](https://github.com/italo1179?tab=repositories)
 [![IA aplicada](https://img.shields.io/badge/IA-Desenvolvimento_assistido-7C3AED?style=flat-square&logo=openai&logoColor=white)](https://github.com/italo1179?tab=repositories)
 [![Brasil](https://img.shields.io/badge/Brasil-4F46E5?style=flat-square&logo=googlemaps&logoColor=white)](https://github.com/italo1179)
